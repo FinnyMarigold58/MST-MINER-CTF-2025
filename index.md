@@ -4,13 +4,6 @@ Welcome to my collection of writeups from MST Miner CTF 2025.
 
 ---
 
-# 🪓 MST Miner CTF 2025 – Writeups
-
-Welcome to my collection of writeups for the MST Miner CTF 2025!  
-Each challenge includes a detailed explanation, artifacts, and screenshots.
-
----
-
 ##  Challenges
 
 ### NewJoeWhoDis
