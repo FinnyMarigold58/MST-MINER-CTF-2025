@@ -6,13 +6,19 @@ Welcome to my collection of writeups from MST Miner CTF 2025.
 
 ##  Challenges
 
-### NewJoeWhoDis
+### Cookie Jar
+*Category:* Web  
+[Read the writeup](challenges/CookieJar/writeup.md)
+
+---
+
+### New Joe Who Dis?
 *Category:* Steganography / Forensics  
 [Read the writeup](challenges/NewJoeWhoDis/writeup.md)
 
 ---
 
-### 📡 StickySituation
+### A "Stick"-y Situation (Networking)
 *Category:* Network Forensics  
 [Read the writeup](challenges/StickySituation/writeup.md)
 
