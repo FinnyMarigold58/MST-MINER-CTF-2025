@@ -9,6 +9,8 @@ Welcome to my collection of writeups from MST Miner CTF 2025.
 ### Phishing
 [Read the writeup](https://www.youtube.com/watch?v=dQw4w9WgXcQ&lc=UgwtDZzvbBIhzMjBGo14AaABAg&si=7r_jc3Pr8zApH_4_)
 
+---
+
 ### Cookie Jar  
 [Read the writeup](challenges/CookieJar/writeup.md)
 
