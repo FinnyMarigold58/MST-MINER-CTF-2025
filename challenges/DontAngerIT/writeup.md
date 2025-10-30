@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Don't Anger IT"
+date: 2025-10-10
+---
+
+
 # Don't Anger IT
 **CTF:** MST Miner 2025
 **Challenge Description:**

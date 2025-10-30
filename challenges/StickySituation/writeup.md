@@ -1,3 +1,10 @@
+---
+layout: post
+title: "A \"Stick\"-y Situation (Networking)"
+date: 2025-10-10
+---
+
+
 # A "Stick"-y Situation (Networking)
 **CTF:** MST Miner 2025
 **Challenge Description:**

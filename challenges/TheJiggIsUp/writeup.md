@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Jigg Is Up"
+date: 2025-10-10
+---
+
 # The Jigg Is Up
 **CTF:** MST Miner 2025
 **Challenge Description:**

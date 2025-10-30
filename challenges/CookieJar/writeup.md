@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Cookie Jar"
+date: 2025-10-03
+---
+
+
 # Cookie Jar
 **CTF:** MST Miner 2025
 **Challenge Description:**

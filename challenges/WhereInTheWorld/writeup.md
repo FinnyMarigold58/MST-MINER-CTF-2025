@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Where In The World"
+date: 2025-10-10
+---
+
 # Where In The World
 **CTF:** MST Miner 2025
 **Challenge Description:**

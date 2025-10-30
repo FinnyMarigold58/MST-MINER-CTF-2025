@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Locked Out"
+date: 2025-10-10
+---
+
 # Locked Out
 **CTF:** MST Miner 2025
 **Challenge Description:**

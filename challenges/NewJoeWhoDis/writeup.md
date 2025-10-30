@@ -1,3 +1,9 @@
+---
+layout: post
+title: "New Joe Who Dis?"
+date: 2025-10-10
+---
+
 # New Joe Who Dis?
 **CTF:** MST Miner 2025
 **Challenge Description:**
